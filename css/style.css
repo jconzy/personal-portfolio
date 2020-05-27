@@ -3,11 +3,6 @@
 @import url('https://fonts.googleapis.com/css?family=Chivo:300,300i,400,400i,700,700i,900,900i');
 @import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i');
 
-/* Medium Layout: 1280px */
-/* Tablet Layout: 768px */
-/* Mobile Layout: 320px */
-/* Wide Mobile Layout: 480px */
-
 projects_text>a{
 user-drag: none; 
 user-select: none;
@@ -136,37 +131,6 @@ a {
         margin-right: 14px;
         position: relative;
 }
-
-     .but-con{
-        margin: 15px 0 0 0;
-        display: inline-block;
-        position: relative;
-}
-
-    .but-con>div{
-        width: 60px;
-        height: 30px;
-        border: 0px solid #8cdef7;
-        border-radius: 2px;
-        color: #212939;
-        background-color: #8cdef7;
-        display: inline-block;
-        position: relative;
-        margin-right: 14px;
-        text-align: center;
-        padding: 2px;
-}
-
-    .but-con>div>a{
-        font-size: 12px;
-        font-weight: 100;
-        font-family:"Karla","Chivo", "Roboto", sans-serif;
-        color: white;  
-        margin: 0;
-        padding: 0;
-}
-
-
         .banner_content a:before {
           position: absolute;
           content: "";
@@ -349,37 +313,3 @@ a {
 }
 
 /*--------------------- footer ends here --------------------*/
-
-b,
-sup,
-sub,
-u,
-del {
-  color: #f8b600; }
-
-h1 {
-  font-size: 36px; }
-
-h2 {
-  font-size: 30px; }
-
-h3 {
-  font-size: 24px; }
-
-h4 {
-  font-size: 18px; }
-
-h5 {
-  font-size: 16px; }
-
-h6 {
-  font-size: 14px; }
-
-.typography h1,
-.typography h2,
-.typography h3,
-.typography h4,
-.typography h5,
-.typography h6 {
-  color: #777777; }
-
