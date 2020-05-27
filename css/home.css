@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=cursive:100,300,400');
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400');
 @import url("https://fonts.googleapis.com/css?family=Poppins:700|Roboto:400,500,500i");
 @import url('https://fonts.googleapis.com/css?family=Chivo:300,300i,400,400i,700,700i,900,900i');
@@ -118,7 +119,8 @@ body {
 
 .txt-con>p,h3,h4{
   margin-left: 15px;
-  font-family: cursive;
+  font-family: "Roboto", sans-serif;
+    font-weight: 50;
 }
 .txt-con>h4{
   display: inline;
